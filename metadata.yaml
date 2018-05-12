@@ -1,0 +1,21 @@
+_repo: Bible-Readings-for-the-Home-Circle_34520
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2010-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34520'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- Study and teaching'
+- !lcsh 'Bible -- Illustrations'
+- !lcc 'BS'
+- !lcsh 'Bible -- Indexes'
+title: Bible Readings for the Home Circle
+url: http://www.gutenberg.org/ebooks/34520
