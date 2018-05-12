@@ -4,6 +4,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34520#Bible-Readings-for-the-Home-Circle
 gutenberg_issued: '2010-11-30'
 gutenberg_type: Text
 identifiers:
